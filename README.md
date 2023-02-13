@@ -2,9 +2,6 @@
 Akter Hossain</a></h1>
 <h3 align="center">A passionate Mobile(Flutter) App developer from Dhaka-Bangladesh &#127470;&#127475</h3>
 
-<p align="left"> <img src="" alt="akterh" /> </p>
-
-<p align="left"> <a href="" target="blank"><img src="" alt="akterh" /></a> </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
