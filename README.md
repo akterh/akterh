@@ -7,13 +7,13 @@ Akter Hossain</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://ridealike.com" target="blank">RideAlike Inc.</a>
+- 🔭 I’m currently working in <a href="https://m360ict.com/" target="blank">M360ICT.</a>
 
 - 🌱 I’m currently Working on Mobile App(Flutter)
 
-- 🤝 I’m available for remote job as well.
+- 🤝 I’m available for remote jobs as well.
 
-- 💬 Ask me about **FLutter and Dart**
+- 💬 Ask me about **FLutter and Dart, Mobile application design patterns**
 
 - 📫 How to reach me **akterh.ja@gmail.com**
 
