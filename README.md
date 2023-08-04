@@ -16,7 +16,7 @@ Akter Hossain</a></h1>
 - 💬 Ask me about **FLutter and Dart, Mobile application design patterns**
 
 - 📫 How to reach me **akterh.ja@gmail.com**
-- 📫 How to reach me **https://akterh.github.io/**
+- 📫 Portfolio **https://akterh.github.io/**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1jNab4Bpad1cGIy1fiTXY9D_f8Ui4C9i3/view?usp=sharing" target="blank">Resume</a>
 <br/>
