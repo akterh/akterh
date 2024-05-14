@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="" target="blank">
 Akter Hossain</a></h1>
-<h3 align="center">A passionate Mobile(Flutter) App developer from Dhaka-Bangladesh &#127470;&#127475</h3>
+<h3 align="center">A passionate Mobile(Flutter) App developer from Dhaka-Bangladesh</h3>
 
 
 <a target="_blank" align="center">
